@@ -1,0 +1,58 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url(../4/assets/fonts/Comfortaa-Regular.ttf);
+}
+
+@font-face {
+    font-family: Comfortaa;
+    src: url(../4/assets/fonts/Comfortaa-Bold.ttf);
+}
+
+body {
+    padding: 20px;
+    color: #8c6249;
+    background-color: #212832;
+}
+
+ul li {
+    color: white;
+}
+
+dd {
+    color: #ffffff;
+}
+
+.definitions {
+    background-color: #393d46;
+    padding: 15px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Comfortaa, serif;
+}
+
+.htmlAndCss li {
+    list-style: disc;
+}
+
+.cssDisk {
+    list-style-type: disc;
+}
+
+.cssDiskM {
+    list-style-type: disc;
+}
+
+.htmlDisc {
+    list-style-type: disc;
+}
+
+.cssDisc {
+    list-style-type: disc;
+}
+
+.otherDisc {
+    list-style-type: disc;
+}
